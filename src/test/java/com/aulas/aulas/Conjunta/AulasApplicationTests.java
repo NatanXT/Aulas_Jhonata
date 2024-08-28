@@ -1,4 +1,4 @@
-package com.aulas.aulas;
+package com.aulas.aulas.Conjunta;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,0 +1,13 @@
+Existe 3 tipos de exceções:
+
+chat exception , algo previsivel mas que da para vc corrigir como variavel null, exemplo: sql exception, etc.
+
+anchat exception , exceções que nao ja deviam ter sido tratadas ou ter manutenção, exemplos: são erros de logica onde
+temos por exemplo uma variavel tipagem inteira mas que ta recebendo um valor nullo.
+
+Erros, geralmente demonstram erros na JDM na memoria ou coisa do tipo e um erro inesperado e que geralmente nao
+acontece no codigo, mas que pode ocorrer tbm por codificação muito pesada ou extensão em consumo de memoria,
+exemplo: hardware com baixa memoria, ou codigo demandando muito da maquina em si.
+
+Metodos de tratamento: Try Cat , onde no try vc tenta executar com uma especie de previsão e trata esse problema
+entre ele e o cat.
