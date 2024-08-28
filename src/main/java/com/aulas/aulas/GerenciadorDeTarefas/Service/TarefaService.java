@@ -1,6 +1,6 @@
 package com.aulas.aulas.GerenciadorDeTarefas.Service;
 
-import com.aulas.aulas.GerenciadorDeTarefas.Modelos.Membro;
+import com.aulas.aulas.GerenciadorDeTarefas.Modelos.Projeto;
 import com.aulas.aulas.GerenciadorDeTarefas.Modelos.Tarefa;
 import com.aulas.aulas.GerenciadorDeTarefas.Repository.MembroRepository;
 import com.aulas.aulas.GerenciadorDeTarefas.Repository.TarefaRepository;
